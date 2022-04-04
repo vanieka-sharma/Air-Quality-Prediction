@@ -1,0 +1,40 @@
+/* services */ 
+#services_offered{
+	margin-top: 30px; 
+}
+.services_column{
+	padding:20px;
+	text-align:justify;
+}
+.services-content{
+	margin-top:20px;
+}
+
+/*gallery */
+#gallery{
+	margin-top:100px;
+}
+
+button{
+	margin:70px;
+	
+}
+
+/*footer*/
+footer{
+	background-color:#071527;
+	color:white;
+	padding:50px;
+	
+}
+.footer-link{
+color:white;
+
+}
+.footer-link:hover{
+color:red;
+
+}
+ul{
+	list-style:none;
+}
